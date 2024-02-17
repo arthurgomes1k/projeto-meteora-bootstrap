@@ -13,3 +13,21 @@
 .verde-limao {
     color: #DAFF01;
 }
+
+.div-novidades {
+    width: 325px;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+
+    .div-novidades {
+        width: 696px;
+    }
+}
